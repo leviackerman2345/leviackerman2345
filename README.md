@@ -1,56 +1,62 @@
 <div align="center">
-  <h1>Hi there, I'm Christian 👋</h1>
-  <h3>1st Year BS Information Technology Student @ LSPU SPCC</h3>
-  <p>I am an aspiring software developer and designer with a strong passion for web development, software engineering, and UI/UX design. I love building creative solutions and am always eager to learn new technologies!</p>
+  <!-- Dynamic animated banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Christian&fontSize=50&fontAlignY=38&animation=twinkling" width="100%" alt="Welcome Banner" />
 </div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-### 🚀 Frameworks & Libraries
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-### 🎨 Tools & Environments
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
 
 <div align="center">
-  <!-- NOTE: Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Christian's GitHub stats" />
+  <p align="center">
+    <strong>1st Year BS Information Technology Student @ LSPU SPCC</strong>
+    <br />
+    Aspiring software developer and designer passionate about web development, software engineering, and UI/UX design.<br /> I'm dedicated to building creative solutions and continuously expanding my technical horizons.
+  </p>
+  
+  <p align="center">
+    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" /></a>
+  </p>
 </div>
 
----
+<br />
+<br />
 
-## 📫 Let's Connect!
-- 📧 **Email:** [Insert your email address]
-- 💼 **LinkedIn:** [Insert your LinkedIn profile link]
-- 🌐 **Portfolio:** [Insert your portfolio website link]
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Tech Stack & Tools </h2>
+</div>
 
-<!-- 
-💡 Tip: When you're ready to use this on your special profile repository, 
-rename this file to README.md and place it in a repository that matches your GitHub username!
--->
+<div align="center">
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java" alt="Languages" />
+  <br />
+
+  <p><strong>Frameworks & Backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,dotnet,nodejs" alt="Frameworks" />
+  <br />
+
+  <p><strong>Design & Environment</strong></p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,blender,ps,git,github" alt="Tools" />
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics </h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Banner" />
+</div>
